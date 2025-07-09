@@ -1,2 +1,2 @@
 Projeto Cordeal
-feito no cursoemvideo aprendendo CSS e HTML
+projeto de site criado no curso
