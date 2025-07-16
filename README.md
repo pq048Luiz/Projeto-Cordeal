@@ -1,2 +1,2 @@
 Projeto Cordeal
-projeto de site criado no curso
+Projeto de Estudo feito em HTML5 e CSS3
